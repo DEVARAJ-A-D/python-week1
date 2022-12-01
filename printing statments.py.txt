@@ -1,0 +1,16 @@
+# printing the statments
+print("hello world")
+print("hello "world" hi")
+print(" i am devaraj")
+print("hello \"world\" world")
+print(" I\'m devaraj")
+#for \n for new line 
+print("linea\nlineb")
+print("line a \\n lineb")
+# for \t for space 
+print(" he is good \t boy")
+print("he is good \\t boy")
+# out put :\"\'
+print("\\\"\\\'")
+print(" this is \\\\ devaraj")
+print("he is /\\/\\/\\/\\ awsome")

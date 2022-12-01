@@ -1,0 +1,23 @@
+#addition
+print(2+3+6)
+#subtraction
+print(2-3)
+#multiplication
+print(3*5*6)
+#division
+print(8/2)
+#floating  point division
+print(9/4)
+#integer point division(floor division)
+print(9//4)
+#square
+print(3**5)
+print(2**0.5)
+print(2**0.5,4)
+#modulus operator
+print(5%2)
+#combined operation
+print((2+3)*2)
+print((2+3)/2)
+print((2+3)*5/2%6)
+print(2**3**2)

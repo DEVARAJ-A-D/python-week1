@@ -1,0 +1,92 @@
+name="devaraj"
+print(name)
+number1=6
+print(number1)
+_name="mom"
+print(_name)
+#snake case writing 
+user_case="devaraj"
+#camel case writing
+usercase="devaraj"
+first_name="devaraj"
+last_name="A D"
+full_name=first_name + " "+last_name
+print(full_name)
+#printing a string two times
+dev=(full_name*2)
+
+#input of variables by user
+a=input(" ")
+
+age=input("his age is :")
+
+number_one=input("enter first number")
+number_two=input("enter second number")
+total=number_one + number_two
+print(total)
+
+number1=float("44")
+number2=int("33")
+print("number1+number2")
+
+name,age="devaraj","18"
+print("my name"+name+"my age is"+age)
+
+name=input("my name is :")
+age=input("my age is :")
+
+#formating strings
+name="devaraj"
+age=18
+print("hello {} your age is {}".format(name,age))
+
+# average of three numbers
+num1=input("first number:")
+num2=input("seccond numer:")
+num3:input("third number:")
+print("average of the three numbers:"num1+num2+num3/3)
+
+#arrays
+p= chiperschools
+print(p[0])
+print(p[1])
+print(p[2])
+print(p[3])
+print(p[4])
+print(p[5])
+print(p[0::4])
+print(p[1::6])
+print(p[1:])
+print(p[:4])
+
+
+print("devaraj"[0:5])
+print("devaraj"[3:5:1])
+print("devaraj"[5::-1])
+print("devaraj"[::-1])
+
+#lenght of string 
+name="devaraj"
+print(len(name))
+
+#type of alhabet
+name="devaraj A D"
+print(name.lower())
+
+name="devaraj A D"
+print(name.upper())
+print(name.tiltle())
+print(name.count("a"))
+ 
+ #replacing the string
+string="he is handsome and he is good eater"
+print(string.replace("is","was"))
+print(string.find("is"))
+
+name="devaraj  A D"
+print(name.centre(8,"*"))
+
+string="devaraj"
+new_string=string.replace('a','A')
+print(new_string)
+
